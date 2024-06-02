@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm John Schloss 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=j-wampler&style=flat-square)
 
@@ -10,8 +10,8 @@ I am a passionate Full Stack / Front End Developer with a love for creating dyna
 - 🔭 I’m working on an old-school style **dungeon crawler game** for my portfolio
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **JavaScript, CSS, Node.js**
-- 📫 How to reach me: **your.email@example.com**
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: **j.schloss.dev@gmail.com**
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/datmack/)
 
 ## Skills
 
