@@ -26,12 +26,6 @@ I am a passionate Full Stack / Front End Developer with a love for creating dyna
 ### [Dungeon Crawler Game](https://j-wampler.github.io/portfolio-website/)
 A fun old-school style dungeon crawler game built with HTML5, CSS, and JavaScript. Currently in development and aimed to be a highlight of my portfolio.
 
-### [Other Project 1](https://github.com/j-wampler/other-project-1)
-Brief description of another project.
-
-### [Other Project 2](https://github.com/j-wampler/other-project-2)
-Brief description of another project.
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
