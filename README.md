@@ -26,6 +26,9 @@ I am a passionate Full Stack / Front End Developer with a love for creating dyna
 ### [Dungeon Crawler Game(Work In Progress)]()
 A fun old-school style dungeon crawler game built with HTML5, CSS, and JavaScript. Currently in development and aimed to be a highlight of my portfolio.
 
+### [Card Tracker (Work In Progress)]()
+A website that you can track and price your collection on, and eventually make it so you can short and import and export builds. The goal that makes this stand out is the interactivity of the cards
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
